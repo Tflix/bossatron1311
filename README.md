@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bossatron1311
-- 👀 I’m interested in csgo and linux
+- 👀 I’m interested in :
+-
 - 🌱 I’m currently     learning nothing
 - 💞️ I’m looking to    collaborate on nothing
 - 📫 How to reach me   https://twitter.com/Bossatron191I
